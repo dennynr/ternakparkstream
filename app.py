@@ -11,17 +11,17 @@ import helper
 
 # Setting page layout
 st.set_page_config(
-    page_title="Object Detection using YOLOv8",
+    page_title="Ternakpark Models",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 # Main page heading
-st.title("Object Detection using YOLOv8")
+st.title("TernakPark Object Detection YoloV8")
 
 # Sidebar
-st.sidebar.header("ML Model Config")
+st.sidebar.header("Mechine Learning TernakPark")
 
 # Model Options
 model_type = st.sidebar.radio(
