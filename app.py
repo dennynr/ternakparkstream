@@ -12,7 +12,7 @@ import helper
 # Setting page layout
 st.set_page_config(
     page_title="Ternakpark Models",
-    page_icon="🤖",
+    page_icon=":sheep:",
     layout="wide",
     initial_sidebar_state="expanded"
 )
